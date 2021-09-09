@@ -1,0 +1,4 @@
+name: rolex-grey-tracker
+dependencies:
+  - beautifulsoup4
+  - requests
